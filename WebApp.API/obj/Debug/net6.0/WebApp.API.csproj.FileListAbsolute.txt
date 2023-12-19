@@ -1,0 +1,7 @@
+C:\Users\tat64\Source\Repos\WebApp\WebApp.API\obj\Debug\net6.0\WebApp.API.csproj.AssemblyReference.cache
+C:\Users\tat64\Source\Repos\WebApp\WebApp.API\obj\Debug\net6.0\WebApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tat64\Source\Repos\WebApp\WebApp.API\obj\Debug\net6.0\WebApp.API.AssemblyInfoInputs.cache
+C:\Users\tat64\Source\Repos\WebApp\WebApp.API\obj\Debug\net6.0\WebApp.API.AssemblyInfo.cs
+C:\Users\tat64\Source\Repos\WebApp\WebApp.API\obj\Debug\net6.0\WebApp.API.csproj.CoreCompileInputs.cache
+C:\Users\tat64\Source\Repos\WebApp\WebApp.API\obj\Debug\net6.0\WebApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tat64\Source\Repos\WebApp\WebApp.API\obj\Debug\net6.0\WebApp.API.sourcelink.json
